@@ -1,2 +1,9 @@
 # Large-Language-Models
-Some works done in the sphere of the large language models, mostly using Chat-GPT by OpenAI.
+Some works done in Large Language Models.
+
+
+## Project
+
+- Backend:
+
+- Essay Grading: Datasets taken from Kaggle. The goal is to use different machine learning techniques (LSMT, KNN, Linear Regression) to predict the grades of essays on general subjects.
